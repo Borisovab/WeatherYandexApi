@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.4)
+  - SnapKit (5.6.0)
+  - SwiftSVG (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - SnapKit (~> 5.6)
+  - SwiftSVG (~> 2.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SnapKit
+    - SwiftSVG
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftSVG: ca7f64e403b8ea7ea8eba8c823b83ba4a059834c
+
+PODFILE CHECKSUM: 3cccb5555a2ca78a6a1c3b0cb5d3af6147064f9f
+
+COCOAPODS: 1.11.3
